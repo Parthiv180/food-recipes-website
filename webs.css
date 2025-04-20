@@ -1,0 +1,233 @@
+
+
+
+.body{
+    align-items: center;
+    margin: 0;
+    padding:0;
+}
+
+
+
+
+
+
+.topheader{
+    width:100%;
+    height:90px;
+    position:relative;
+    background-color: azure;
+    width: 100%;
+    height: 130px;
+    justify-content: last baseline;
+
+    
+}
+
+
+.logo{   
+     position:relative;
+     top:30px;
+     left:400px;
+
+
+
+
+}
+
+
+.menu{
+    display: flex;
+    gap:50px;
+    left:650px;
+    position:absolute;
+    font-size: 23px;
+    top: 80px;
+    
+}
+
+.Button{
+    left: 1200px;
+    top: 70px;
+    position: absolute;
+    width: 70px;
+
+}
+
+
+.recimage{
+    position: relative;
+    left: 350px;
+    top: 60px;
+  
+}
+
+.Recipes{
+    display: inline-block;
+    position: relative;
+    top:100px;
+    left: 350px;
+   
+    
+}
+
+.btn{
+    border-radius: 9px;
+    width:170px;
+    height:40px;
+
+
+}
+
+.btn:hover{
+    background-color: red;
+    transition: 0.5s;
+}
+
+
+
+
+
+.Recipe{
+    font-size: 30px;
+    
+
+}
+
+.gond{
+    position: relative;
+    left:460px;
+}
+
+.gdata{
+    position: relative;
+    left:460px;
+
+}
+
+.first{
+    display: flex;
+    position: relative;
+    top:20px;
+}
+
+
+.besan{
+    position: relative;
+    left:510px;
+    
+}
+
+.besandata{
+    position: absolute;
+    left:810px;
+}
+
+.Achari{
+    position: relative;
+    left:570px;
+
+
+}
+
+.Acharit{
+    position: relative;
+    left: 290px;
+    top:170px
+}
+
+.second{
+    display: flex;
+    gap:60px;
+    left:450px;
+    position: relative;
+    top:50px;
+}
+
+.LADD{
+    position: absolute;
+    left:720px;
+    top: 170PX;
+}
+
+.Third{
+    display: flex;
+    top:60px;
+    position: relative;
+    left:450px;
+    gap:60px;
+
+}
+
+.kers{
+    position: absolute;
+    left:720px;
+    top: 170PX;
+}   
+
+
+
+
+.fourth{
+    display: flex;
+    top:100px;
+    position: relative;
+    left:450px;
+    gap:60px;
+}
+
+
+.fifth{
+    display: flex;
+    top:130px;
+    position: relative;
+    left:450px;
+    gap:60px;
+}
+
+
+
+
+
+
+.makki{   position: absolute;
+    left:720px;
+    top: 170PX;
+}   
+
+.sixth{
+    display: flex;
+    top:140px;
+    position: relative;
+    left:450px;
+    gap:60px;
+}
+
+
+
+.PANCHI{
+    position: absolute;
+    left:720px;
+    top: 170PX;
+}   
+
+
+.bottom{
+    position: relative;
+    top:160px;
+    background-color: blueviolet;
+    width: 100%;
+    height:80px;
+    color: white;
+}
+
+.btext{
+    position:absolute;
+    left:680px;
+    top:25px;
+    font-size: 20px;
+}
+
+
+
+
